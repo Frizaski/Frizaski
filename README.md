@@ -39,8 +39,8 @@ A passionate **Software Engineering Student**, **Web Developer**, and **UI/UX De
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Frizaski&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frizaski&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Frizaski&show_icons=true&theme=tokyonight&count_private=true&v=1" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frizaski&layout=compact&theme=tokyonight&v=1" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
