@@ -2,6 +2,7 @@
 
 A passionate **Software Engineering Student**, **Web Developer**, and **UI/UX Designer**.
 
+- 🏢 I’m currently a **Front End Developer Intern at Cretivox**
 - 🔭 I’m currently working on **Web Applications & UI/UX Design Projects**
 - 🌱 I’m currently learning **Advanced Web Frameworks & Data Science**
 - ⚡ Fun fact: I love balancing clean code with intuitive visual design.
@@ -15,6 +16,8 @@ A passionate **Software Engineering Student**, **Web Developer**, and **UI/UX De
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 
 #### **UI/UX & Graphic Design**
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -24,6 +27,12 @@ A passionate **Software Engineering Student**, **Web Developer**, and **UI/UX De
 #### **Data Science & Analytics**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R Studio](https://img.shields.io/badge/R_Studio-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+---
+
+### 🚀 Highlighted Projects
+
+*   **[Introduction Frizaski](https://cretivox-frizaski.vercel.app/)** - Interactive scrollytelling portfolio built with Next.js, React, and GSAP.
 
 ---
 
