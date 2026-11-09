@@ -135,14 +135,14 @@ const frizaski = {
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Frizaski&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak Stats" width="85%" />
+  <img src="https://streak-stats.demolab.com/?user=Frizaski&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak Stats" width="85%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Frizaski&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frizaski&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" alt="Top Languages" width="49%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Frizaski&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Stats" width="49%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Frizaski&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" alt="Top Languages" width="49%" />
 </div>
 
 <br/>
